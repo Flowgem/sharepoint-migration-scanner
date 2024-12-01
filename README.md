@@ -3,6 +3,8 @@
 The **SharePoint Migration Scanner** is a tool designed to analyze files and folders to ensure they meet the requirements for migration to SharePoint. It scans directories for compatibility issues, generates detailed reports, and provides actionable suggestions to resolve problems before migration.
 
 ---
+![image](https://github.com/user-attachments/assets/d64eb9ed-b90d-4a01-ad43-bc6aef0b68e3)
+---
 
 ## **Features**
 
