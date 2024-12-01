@@ -26,6 +26,14 @@ The **SharePoint Migration Scanner** is a tool designed to analyze files and fol
 
 ---
 
+## **Requirements**
+
+- **Python 3.8 or higher**  
+  This project is built using Python and requires Python 3.8 or later. Ensure you have Python installed on your system before running the scanner.  
+  You can download Python from the official [Python website](https://www.python.org/).
+
+---
+
 ## **Installation**
 
 1. Clone the repository:
