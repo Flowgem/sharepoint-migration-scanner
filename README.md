@@ -60,7 +60,7 @@ The **SharePoint Migration Scanner** is a tool designed to analyze files and fol
 
 ---
 
-## **How the SharePoint Scanner Works**
+## **How the SharePoint Migration Scanner Works**
 
 The SharePoint Scanner scans files and folders within a selected directory and validates them against SharePoint's requirements. Specifically, it checks for:
 
